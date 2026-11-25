@@ -1,8 +1,8 @@
 # CVMA Library AI Assistant — Streamlit
 
-A starter Streamlit chatbot for the Addis Ababa University College of Veterinary
+A chatbot for the Addis Ababa University College of Veterinary
 Medicine and Agriculture (CVMA) Library. It uses Gemini for answer generation
-and TF-IDF retrieval over local institutional documents.
+retrieval over local institutional documents.
 
 ## Files
 
