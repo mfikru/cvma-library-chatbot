@@ -1,4 +1,4 @@
-# CVMA Library AI Assistant — Streamlit
+# CVMA Library AI Assistant 
 
 A chatbot for the Addis Ababa University College of Veterinary
 Medicine and Agriculture (CVMA) Library. It uses Gemini for answer generation
